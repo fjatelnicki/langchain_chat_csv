@@ -33,7 +33,3 @@ This project enables users to interact with data stored in CSV files through nat
 
 Ensure that the `.env` file is set up with the following variable:
 - `OPENAI_API_KEY`: Your OpenAI API key.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
